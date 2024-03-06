@@ -1,2 +1,2 @@
 # rf_p4
-This repo contains the simulation to use RF model in the P4 switch
+This repo contain the simulations to use the RF models in the P4-enalbed switch
