@@ -1,0 +1,5 @@
+Note: this simulation is to test the use of rf model inside p4-enabled switch. The model is traine dand tested on the same data portion.
+
+Steps:
+1. Run rn.sh to start the simulation
+2. Run rn2.sh to split train and test data, train model, translate its output to switch, send traffic and monitor the results
