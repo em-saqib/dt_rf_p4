@@ -1,0 +1,18 @@
+threat-detection-lab/
+│
+├── hunts/
+│   ├── lsass_dns_hunt.md
+│
+├── detections/
+│   ├── credential_dumping_dns_c2.spl
+│
+├── lookups/
+│   ├── suspicious_domains.csv
+│
+├── tests/
+│   ├── test_detection_logic.md
+│
+├── mitre_mapping/
+│   ├── T1003_T1071.yml
+│
+└── README.md
